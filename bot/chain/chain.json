@@ -44,7 +44,7 @@
         "icon": "https://assets.trustwalletapp.com/blockchains/okexchain/info/logo.png?v=1597043857"   
     },
     {
-        "name": "Arbitrum One",
+        "name": "Arbitrum",
         "symbol": "ARB",
         "decimals": 18,
         "chainId": 42161,
