@@ -1,7 +1,10 @@
-[{
-    "name": "Pancake V2",
-    "protocol": "uniswap-v2",
-    "wrapperedToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
-    "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E"
-}]
+[
+    {
+        "protocol": "uniswap-v2",
+        "wrapperedToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+        "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+        "chainIndex": 1,
+        "name": "PancakeSwap"
+    }
+]
