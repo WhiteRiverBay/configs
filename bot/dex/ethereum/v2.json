@@ -1,7 +1,7 @@
 [
     {
         "protocol": "uniswap-v2",
-        "wrapperedToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "wrapperedToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "factory": "0x1097053Fd2ea711dad45caCcc45EfF7548fCB362",
         "router": "0xEfF92A263d31888d860bD50809A8D171709b7b1c",
         "chainIndex": 1,
