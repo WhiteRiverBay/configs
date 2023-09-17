@@ -5,7 +5,7 @@
         "decimals": 18,
         "chainId": 1,
         "rpcUrls": {
-            "us-east": "https://mainnet.infura.io/v3/8e4b0b7b7b5a4b6e9b0b3b0b7b7b7b7b"
+            "us-east": "https://ethereum.publicnode.com/"
         },
         "explorer": "https://etherscan.io",
         "icon": "https://assets.trustwalletapp.com/blockchains/ethereum/info/logo.png?v=1597043857",
