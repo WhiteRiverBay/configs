@@ -17,7 +17,7 @@
         "decimals": 18,
         "chainId": 56,
         "rpcUrls": {
-            "us-east": "https://bsc-dataseed1.defibit.io/"
+            "us-east": "https://bsc-dataseed1.ninicoin.io/"
         },
         "explorer": "https://bscscan.com",
         "icon": "https://assets.trustwalletapp.com/blockchains/smartchain/info/logo.png?v=1602812365",
