@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 1,
+        "rpcUrls": {
+            "us-east": "https://ethereum.publicnode.com/"
+        },
+        "explorer": "https://etherscan.io",
+        "icon": "https://assets.trustwalletapp.com/blockchains/ethereum/info/logo.png?v=1597043857",
+        "pollingInterval": 1
+    },
+    {
+        "name": "BSC",
+        "symbol": "BNB",
+        "decimals": 18,
+        "chainId": 56,
+        "rpcUrls": {
+            "us-east": "https://bsc-dataseed1.ninicoin.io/"
+        },
+        "explorer": "https://bscscan.com",
+        "icon": "https://assets.trustwalletapp.com/blockchains/smartchain/info/logo.png?v=1602812365",
+        "pollingInterval": 1
+    },
+    {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "chainId": 137,
+        "rpcUrls": {
+            "us-east": "https://rpc-mainnet.maticvigil.com"
+        },
+        "explorer": "https://polygonscan.com",
+        "pollingInterval": 1,
+        "icon": "https://assets.trustwalletapp.com/blockchains/polygon/info/logo.png?v=1597043857"
+    },
+    {
+        "name": "OKX",
+        "symbol": "OKT",
+        "decimals": 18,
+        "chainId": 66,
+        "rpcUrls": {
+            "us-east": "https://exchainrpc.okex.org"
+        },
+        "explorer": "https://www.oklink.com/okexchain",
+        "pollingInterval": 1,
+        "icon": "https://assets.trustwalletapp.com/blockchains/okexchain/info/logo.png?v=1597043857"
+    },
+    {
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "decimals": 18,
+        "chainId": 42161,
+        "rpcUrls": {
+            "us-east": "https://arb1.arbitrum.io/rpc"
+        },
+        "explorer": "https://arbiscan.io",
+        "pollingInterval": 1,
+        "icon": "https://assets.trustwalletapp.com/blockchains/arbitrum/info/logo.png?v=1597043857"
+    },
+    {
+        "name": "Linea",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 59144,
+        "rpcUrls": {
+            "us-east": "https://linea.blockpi.network/v1/rpc/public"
+        },
+        "explorer": "https://lineascan.build",
+        "pollingInterval": 1,
+        "icon": "https://assets.trustwalletapp.com/blockchains/ethereum/info/logo.png?v=1597043857"
+    },
+    {
+        "name": "Base",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 8453,
+        "rpcUrls": {
+            "us-east": "https://developer-access-mainnet.base.org"
+        },
+        "explorer": "https://basescan.org",
+        "pollingInterval": 1,
+        "icon": "https://assets.trustwalletapp.com/blockchains/ethereum/info/logo.png?v=1597043857"
+    }
+]
